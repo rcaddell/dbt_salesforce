@@ -34,6 +34,7 @@ final as (
         oli.quantity,
         oli.unit_price,
         oli.total_price,
+        oli.discount,
         oli.has_quantity_schedule,
         oli.has_revenue_schedule
 

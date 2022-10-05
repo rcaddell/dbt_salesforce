@@ -523,6 +523,8 @@ models:
         description: '{{ doc("unit_price") }}'
       - name: total_price
         description: '{{ doc("total_price") }}'
+      - name: discount
+        description: '{{ doc("discount") }}'
       - name: has_quantity_schedule
         description: '{{ doc("has_quantity_schedule") }}'
       - name: has_revenue_schedule

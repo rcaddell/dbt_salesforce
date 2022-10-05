@@ -450,3 +450,7 @@ The dollar amount of all opportunities lost for this day.
 {% docs pipeline_amount -%}
 The dollar amount of all opportunities in the pipeline for this day.
 {%- enddocs %}
+
+{% docs discount -%}
+The discount applied to the line item of the opportunity.
+{%- enddocs %}
