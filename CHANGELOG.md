@@ -9,6 +9,7 @@ PR [#35](https://github.com/fivetran/dbt_salesforce/pull/35) incorporates the fo
 ## Features
   - Resolving bug in `salesforce__contact_enhanced` when using user passthrough columns.
   - Resolving bug in `salesforce__opportunity_line_item_enhanced` when using user passthrough columns.  
+  - Add the `discount` field to the `salesforce__opportunity_line_item_enhanced` object.
 
 ## Contributors
 - [@calder-holt](https://github.com/calder-holt) ([#32](https://github.com/fivetran/dbt_salesforce/pull/32))
